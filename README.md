@@ -1,4 +1,4 @@
-# Hi there, I'm TAMMINENI09 👋
+# Hi there, I'm TAMMINENI 👋
 
 🎓 **Student @ Masters in Computer Science**  
 💻 **Full Stack Developer** | ReactJS • NodeJS • Python • MySQL
