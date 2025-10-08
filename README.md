@@ -53,5 +53,3 @@ Traditional NAS methods are resource-intensive and slow. My ENAS pipeline integr
 <!-- Social links can go here in the future! -->
 
 ---
-
-![TAMMINENI09's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAMMINENI09&show_icons=true&theme=radical)
