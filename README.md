@@ -1,4 +1,4 @@
-# Hi there, I'm TAMMINENI 👋
+# Hi there, I'm TAMMINENI SAI SIRI 👋
 
 🎓 **Student @ Masters in Computer Science**  
 💻 **Full Stack Developer** | ReactJS • NodeJS • Python • MySQL
