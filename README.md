@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/website-%23FF6C37.svg?style=for-the-badge&logo=google-chrome&logoColor=white)]({{website}})
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisiritammineni)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stamminenijobs@gmail.com)
 
 ---
 
