@@ -1,7 +1,6 @@
 # Hi there, I'm TAMMINENI SAI SIRI 👋
 
-🎓 **Student @ Masters in Computer Science**  
-💻 **Full Stack Developer** | ReactJS • NodeJS • Python • MySQL
+Aspiring Full-Stack Software Engineer (M.S. Comp Sci) | Crafting robust web solutions using React, NodeJS, and Python for efficient, high-performance systems.
 
 [![Website](https://img.shields.io/badge/website-%23FF6C37.svg?style=for-the-badge&logo=google-chrome&logoColor=white)]({{website}})
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisiritammineni)
